@@ -195,3 +195,11 @@ data/raw_data/FWM_MPD/20170310_MPD_40GHzOsci.dat
 data/raw_data/FWM_MPD/20170309_MPD_40GHzOsci.part
 data/raw_data/FWM_MPD/20170308_fastrise_MPD.dat
 data/raw_data/etalon/NewFile1.csv
+plots/G2_FWM_HomemadeAndGate_MPD_10GHzOsci.pdf
+plots/G2_FWM_MPDGated_10GHzOsci.pdf
+plots/G2_FWM_MPDGated_TimestampUnit.pdf
+plots/fits.pdf
+plots/etalon.pdf
+plots/40MHzRed_fft.pdf
+plots/20MHzRed_fft.pdf
+Icon
