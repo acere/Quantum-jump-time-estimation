@@ -1,0 +1,197 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+.dropbox
+.DS_Store
+analysis/bootstrap.py
+analysis/Decay_fit.py
+analysis/etalon_characterization.py
+analysis/fft_g2.py
+analysis/mpd_detector_jitter.py
+analysis/plotting.py
+analysis/plotting_old_FWM.py
+analysis/plotting_timestampfile.py
+analysis/rfft_err.py
+*.txt
+Icon
+exp_configuration/.directory
+exp_configuration/dds/.directory
+exp_configuration/dds/776nm_pump.conf
+exp_configuration/dds/780nm_cooling_spec.conf
+exp_configuration/dds/780nm_cooling_TA.conf
+exp_configuration/dds/780nm_pump.conf
+exp_configuration/dds/780nm_pump_spec.conf
+exp_configuration/dds/795nm_pump.conf
+exp_configuration/dds/modeam_levels2.conf
+exp_configuration/dds/reset.conf
+exp_configuration/dds_default_settings.sh
+exp_configuration/DDS_Map.sh
+exp_configuration/dds_pair_generation/.directory
+exp_configuration/dds_pair_generation/776nm_pump.conf
+exp_configuration/dds_pair_generation/780nm_cooling_spec.conf
+exp_configuration/dds_pair_generation/780nm_cooling_TA.conf
+exp_configuration/dds_pair_generation/780nm_pump.conf
+exp_configuration/dds_pair_generation/780nm_pump_spec.conf
+exp_configuration/dds_pair_generation/795nm_pump.conf
+exp_configuration/dds_pair_generation/modeam_levels2.conf
+exp_configuration/dds_pair_generation/reset.conf
+exp_configuration/dds_reset_all.sh
+exp_configuration/dds_seeded_fwm/.directory
+exp_configuration/dds_seeded_fwm/776nm_pump.conf
+exp_configuration/dds_seeded_fwm/780nm_cooling_spec.conf
+exp_configuration/dds_seeded_fwm/780nm_cooling_TA.conf
+exp_configuration/dds_seeded_fwm/780nm_pump.conf
+exp_configuration/dds_seeded_fwm/780nm_pump_spec.conf
+exp_configuration/dds_seeded_fwm/795nm_pump.conf
+exp_configuration/dds_seeded_fwm/modeam_levels2.conf
+exp_configuration/dds_seeded_fwm/reset.conf
+exp_configuration/pair_generation.sh
+exp_configuration/patgen_All_off.sh
+exp_configuration/patgen_All_on.sh
+exp_configuration/patterns/.directory
+exp_configuration/patterns/all_off.pattern
+exp_configuration/patterns/all_on.pattern
+exp_configuration/patterns/delayfile
+exp_configuration/patterns/pair_generation.pattern
+exp_configuration/patterns/seeded_fwm.pattern
+exp_configuration/seeded_fwm.sh
+data/raw_data/old_FWM_g2/20151103_14h06m24s_1800sec_CoilCurr12p01A.g2
+data/raw_data/old_FWM_g2/20151103_13h36m15s_1800sec_CoilCurr12p00A.g2
+data/raw_data/old_FWM_g2/20151103_13h06m06s_1800sec_CoilCurr12p01A.g2
+data/raw_data/old_FWM_g2/20151103_12h35m57s_1800sec_CoilCurr12p01A.g2
+data/raw_data/old_FWM_g2/20151103_12h05m48s_1800sec_CoilCurr12p00A.g2
+data/raw_data/old_FWM_g2/20151103_11h35m37s_1800sec_CoilCurr12p01A.g2
+data/raw_data/old_FWM_g2/20151103_10h35m19s_1800sec_CoilCurr12p00A.g2
+data/raw_data/old_FWM_g2/20151103_10h05m10s_1800sec_CoilCurr12p01A.g2
+data/raw_data/old_FWM_g2/20151103_09h35m02s_1800sec_CoilCurr12p00A.g2
+data/raw_data/g2_etalon/plotting.py
+data/raw_data/FWM_MPD/20170613_FWMg2_MPD_MPDGated_3MHzBlueDetuned.dat
+data/raw_data/FWM_MPD/20170613_FWMg2_MPD_MPDGated_2MHzBlueDetuned01.dat
+data/raw_data/FWM_MPD/20170613_FWMg2_MPD_MPDGated_2MHzBlueDetuned.dat
+data/raw_data/FWM_MPD/20170613_FWMg2_MPD_MPDGated_1MHzRedDetuned.dat
+data/raw_data/FWM_MPD/20170613_FWMg2_MPD_MPDGated_1MHzBlueDetuned.dat
+data/raw_data/FWM_MPD/20170613_FWMg2_MPD_MPDGated_0MHzBlueDetuned.dat
+data/raw_data/FWM_MPD/20170609_FWMg2_2MPD_MPDGated_20MHzBlueDetuned.dat
+data/raw_data/FWM_MPD/20170608_FWMg2_MPD_MPDGated_4GHzOsci_40MHzRedDetuned_6p5mW775nm_0p1mW780.dat
+data/raw_data/FWM_MPD/20170606_FWMg2_MPD_MPDGated_4GHzOsci_20MHzRedDetuned_6p5mW776nm_0p1mW780nm.dat
+data/raw_data/FWM_MPD/20170531_FWMg2_MPD_MPDGated_4GHzOsci_15mhzbluedetuned.dat
+data/raw_data/FWM_MPD/20170531_FWMg2_MPD_MPDGated_4GHzOsci_10MHzRedDetuned.dat
+data/raw_data/FWM_MPD/20170529_FWMg2_MPD_MPDGated_4GHzOsci_4MHzBlueDetuned.dat
+data/raw_data/FWM_MPD/20170406_MPD_G2_MPDGated_Timestamp.g2
+data/raw_data/FWM_MPD/20170406_MPD_G2_MPDGated_10GHzOsci.dat
+data/raw_data/FWM_MPD/20170406_MPD_G2_HomemadeAndGate10GHzOsci.dat
+data/raw_data/FWM_MPD/20170310_MPD_40GHzOsci.dat
+data/raw_data/FWM_MPD/20170309_MPD_40GHzOsci.part
+data/raw_data/FWM_MPD/20170308_fastrise_MPD.dat
+data/raw_data/etalon/NewFile1.csv
