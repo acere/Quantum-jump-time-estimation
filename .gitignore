@@ -203,3 +203,6 @@ plots/etalon.pdf
 plots/40MHzRed_fft.pdf
 plots/20MHzRed_fft.pdf
 Icon
+Icon
+Jump estimation convolution + fit.ipynb
+Jump estimation deconvolution.ipynb
